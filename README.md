@@ -8,14 +8,14 @@
 ---
 
 ### 🚀 Professional Summary
-- **Specialization**: Web & App Development (MERN, Flutter), Agentic AI Systems, and Coding, Robotics & STEAM Education.
+- **Specialization**: Web & App Development (Flutter), Agentic AI Systems, and Coding, Robotics & STEAM Education.
 - **Education**: MCA Student (KRMU, GGSIPU).
 - **Current Role**: Core contributor to **EDEMS Pvt. Ltd.** projects, bridging the gap between digital intelligence and physical execution.
 - **Focus**: Building scalable multi-agent workflows, real-world AI applications, and fostering innovation through STEM mentorship.
 
 ---
 
-### 🌐 Live Portfolio Preview
+### 🌐 Portfolio Preview
 
 <div align="center">
   <a href="https://vinayaksharmadev.vercel.app/">
@@ -45,7 +45,7 @@
 
 ### ⚙️ Core Engineering Competencies
 - **Agentic AI & LLMs**: AI Workflow Automation, LLM Applications, Prompt Engineering, and Multi-agent orchestration.
-- **Web & App Development**: Full-stack web development and cross-platform mobile apps (Flutter, MERN).
+- **Web & App Development**: Full-stack web development and cross-platform mobile apps (Flutter).
 - **Robotics & Embedded**: Sensor-rich hardware prototyping, motor control logic, and electronics.
 - **Computer Science Fundamentals**: DBMS, Operating Systems, Computer Networks, and Software Engineering.
 
