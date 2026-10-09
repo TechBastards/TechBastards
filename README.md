@@ -17,9 +17,17 @@
 
 ### 🏢 EDEMS Pvt. Ltd. Projects & Contributions
 
+| ![N2N Networking Platform](https://vinayaksharmadev.vercel.app/assets/images/n2n_v.png) | ![Autonomous AI Sales Agent](https://vinayaksharmadev.vercel.app/assets/images/gmb_sales_agent.png) |
+| :---: | :---: |
+| **[N2N Networking Platform](https://github.com/TechBastards/n2n-v)**<br>A social and recruitment network bridging students and corporations. Features smart resume parsing and autonomous hiring agents. | **[Autonomous AI Sales Agent](https://github.com/TechBastards/gmb-sales-agent)**<br>An enterprise-grade, mobile AI Sales CRM. Discovers business leads and manages end-to-end outreach via WhatsApp using Gemini AI. |
+
+---
+
+### 🌟 Personal Flagship Projects
+
 | ![SAGE Wearable AI](sage_ai_illustration.jpg) | ![Vision-Controlled Robotic Arm](robotic_arm_illustration.jpg) |
 | :---: | :---: |
-| **[SAGE Wearable AI](https://github.com/TechBastards/SAGE-AI)**<br>Developed for EDEMS Pvt. Ltd. An intelligent wearable integrating multimodal data and memory retrieval. | **[Vision-Controlled Robotic Arm](https://github.com/TechBastards/AI_Based_Vision_Controlled_Robotic_Arm_For_Selective_Object_Manipulation)**<br>Developed for EDEMS Pvt. Ltd. Leveraging computer vision for selective object manipulation. |
+| **[SAGE Wearable AI](https://github.com/TechBastards/SAGE-AI)**<br>An intelligent wearable prototype integrating multimodal data and memory retrieval. | **[Vision-Controlled Robotic Arm](https://github.com/TechBastards/AI_Based_Vision_Controlled_Robotic_Arm_For_Selective_Object_Manipulation)**<br>Leveraging computer vision and AI for selective object manipulation. |
 
 ---
 
