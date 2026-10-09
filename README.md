@@ -19,7 +19,7 @@
 
 <div align="center">
   <a href="https://vinayaksharmadev.vercel.app/">
-    <img src="portfolio_hero.svg" alt="Vinayak Sharma Live Portfolio Preview" width="100%">
+    <img src="portfolio_hero.webp" alt="Vinayak Sharma Live Portfolio Preview" width="100%">
   </a>
   <br>
   <strong>Explore my full interactive portfolio at:</strong> <a href="https://vinayaksharmadev.vercel.app/">vinayaksharmadev.vercel.app</a>
@@ -27,9 +27,9 @@
 
 ---
 
-### 🏢 <img src="https://readme-typing-svg.demolab.com?font=Times+New+Roman&weight=bold&size=24&color=ffffff&vCenter=true&width=800&lines=EDEMS+Pvt.+Ltd.+Projects+%26+Contributions&repeat=false" alt="EDEMS Pvt. Ltd. Projects & Contributions" />
+### 🏢 <img src="https://readme-typing-svg.demolab.com?font=Times+New+Roman&weight=bold&size=24&color=ffffff&vCenter=true&width=800&lines=EDEMS+Pvt.+Ltd.+Projects+and+Contributions&repeat=false" alt="EDEMS Pvt. Ltd. Projects & Contributions" />
 
-| ![N2N Networking Platform](https://vinayaksharmadev.vercel.app/assets/images/n2n_v.png) | ![Autonomous AI Sales Agent](https://vinayaksharmadev.vercel.app/assets/images/gmb_sales_agent.png) |
+| ![N2N Networking Platform](n2n_v.png) | ![Autonomous AI Sales Agent](gmb_sales_agent.png) |
 | :---: | :---: |
 | **[N2N Networking Platform](https://github.com/TechBastards/n2n-v)**<br>A social and recruitment network bridging students and corporations. Features smart resume parsing and autonomous hiring agents. | **[Autonomous AI Sales Agent](https://github.com/TechBastards/gmb-sales-agent)**<br>An enterprise-grade, mobile AI Sales CRM. Discovers business leads and manages end-to-end outreach via WhatsApp using Gemini AI. |
 
