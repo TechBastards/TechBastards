@@ -15,6 +15,18 @@
 
 ---
 
+### 🌐 Live Portfolio Preview
+
+<div align="center">
+  <a href="https://vinayaksharmadev.vercel.app/">
+    <img src="portfolio_hero.jpg" alt="Vinayak Sharma Live Portfolio Preview" width="100%">
+  </a>
+  <br>
+  <strong>Explore my full interactive portfolio at:</strong> <a href="https://vinayaksharmadev.vercel.app/">vinayaksharmadev.vercel.app</a>
+</div>
+
+---
+
 ### 🏢 EDEMS Pvt. Ltd. Projects & Contributions
 
 | ![N2N Networking Platform](https://vinayaksharmadev.vercel.app/assets/images/n2n_v.png) | ![Autonomous AI Sales Agent](https://vinayaksharmadev.vercel.app/assets/images/gmb_sales_agent.png) |
@@ -61,19 +73,7 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
 </p>
 
----
 
-### 🌐 Live Portfolio Preview
-
-<div align="center">
-  <a href="https://vinayaksharmadev.vercel.app/">
-    <img src="portfolio_hero.jpg" alt="Vinayak Sharma Live Portfolio Preview" width="100%">
-  </a>
-  <br>
-  <strong>Explore my full interactive portfolio at:</strong> <a href="https://vinayaksharmadev.vercel.app/">vinayaksharmadev.vercel.app</a>
-</div>
-
----
 
 ### 📊 GitHub Stats
 
