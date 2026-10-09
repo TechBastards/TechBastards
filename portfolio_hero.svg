@@ -1,0 +1,76 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 400" width="100%" height="100%">
+  <defs>
+    <radialGradient id="glow" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#00f2fe" stop-opacity="0.8"/>
+      <stop offset="100%" stop-color="#4facfe" stop-opacity="0"/>
+    </radialGradient>
+    <filter id="neonGlow">
+      <feGaussianBlur stdDeviation="3" result="coloredBlur"/>
+      <feMerge>
+        <feMergeNode in="coloredBlur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+  
+  <rect width="100%" height="100%" fill="#060913"/>
+  
+  <!-- Lines with animation -->
+  <g stroke="#4facfe" stroke-width="1.5" opacity="0.6">
+    <path d="M 400 200 L 200 100 L 100 200 L 200 300 Z" fill="none">
+      <animate attributeName="opacity" values="0.3;0.8;0.3" dur="3s" repeatCount="indefinite"/>
+    </path>
+    <path d="M 400 200 L 600 100 L 700 200 L 600 300 Z" fill="none">
+      <animate attributeName="opacity" values="0.8;0.3;0.8" dur="3s" repeatCount="indefinite"/>
+    </path>
+    <path d="M 400 200 L 200 100 L 600 100 Z" fill="none"/>
+    <path d="M 400 200 L 200 300 L 600 300 Z" fill="none"/>
+    
+    <!-- Moving particles on lines -->
+    <circle r="4" fill="#00f2fe" filter="url(#neonGlow)">
+      <animateMotion dur="4s" repeatCount="indefinite" path="M 400 200 L 200 100 L 100 200 L 200 300 Z"/>
+    </circle>
+    <circle r="4" fill="#00f2fe" filter="url(#neonGlow)">
+      <animateMotion dur="3.5s" repeatCount="indefinite" path="M 400 200 L 600 100 L 700 200 L 600 300 Z"/>
+    </circle>
+    <circle r="4" fill="#00f2fe" filter="url(#neonGlow)">
+      <animateMotion dur="5s" repeatCount="indefinite" path="M 200 100 L 600 100 L 600 300 L 200 300 Z"/>
+    </circle>
+  </g>
+  
+  <!-- Glowing Nodes -->
+  <g fill="#00f2fe" filter="url(#neonGlow)">
+    <!-- Center AI Node -->
+    <circle cx="400" cy="200" r="15">
+      <animate attributeName="r" values="12;18;12" dur="2s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="400" cy="200" r="50" fill="url(#glow)" opacity="0.5">
+      <animate attributeName="opacity" values="0.3;0.7;0.3" dur="2s" repeatCount="indefinite"/>
+    </circle>
+    <text x="400" y="205" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#060913" text-anchor="middle">AI</text>
+    
+    <!-- Peripheral Nodes -->
+    <circle cx="200" cy="100" r="8"><animate attributeName="r" values="6;10;6" dur="3s" repeatCount="indefinite"/></circle>
+    <circle cx="100" cy="200" r="8"><animate attributeName="r" values="6;10;6" dur="2.5s" repeatCount="indefinite"/></circle>
+    <circle cx="200" cy="300" r="8"><animate attributeName="r" values="6;10;6" dur="3.5s" repeatCount="indefinite"/></circle>
+    <circle cx="600" cy="100" r="8"><animate attributeName="r" values="6;10;6" dur="2.8s" repeatCount="indefinite"/></circle>
+    <circle cx="700" cy="200" r="8"><animate attributeName="r" values="6;10;6" dur="3.2s" repeatCount="indefinite"/></circle>
+    <circle cx="600" cy="300" r="8"><animate attributeName="r" values="6;10;6" dur="2.9s" repeatCount="indefinite"/></circle>
+  </g>
+  
+  <!-- UI Overlays -->
+  <g font-family="Arial, sans-serif" font-size="14" fill="#a8b2d1">
+    <rect x="50" y="40" width="220" height="40" fill="#112240" stroke="#00f2fe" stroke-width="1" rx="5" opacity="0.8"/>
+    <text x="160" y="65" text-anchor="middle" font-weight="bold" fill="#00f2fe">GLOBAL NODE CONNECTIVITY</text>
+    
+    <rect x="530" y="40" width="220" height="40" fill="#112240" stroke="#00f2fe" stroke-width="1" rx="5" opacity="0.8"/>
+    <text x="640" y="65" text-anchor="middle" font-weight="bold" fill="#00f2fe">REAL-TIME STREAMING</text>
+    
+    <rect x="290" y="340" width="220" height="40" fill="#112240" stroke="#00f2fe" stroke-width="1" rx="5" opacity="0.8"/>
+    <text x="400" y="365" text-anchor="middle" font-weight="bold" fill="#00f2fe">AI ORCHESTRATOR</text>
+  </g>
+
+  <text x="400" y="30" font-family="'Times New Roman', serif" font-size="20" font-weight="bold" fill="#ffffff" text-anchor="middle" letter-spacing="2">
+    DECENTRALIZED AGENTIC NETWORK
+  </text>
+</svg>

@@ -7,7 +7,7 @@
 
 ---
 
-### 🚀 Professional Summary
+### 🚀 <img src="https://readme-typing-svg.demolab.com?font=Times+New+Roman&weight=bold&size=24&color=ffffff&vCenter=true&width=600&lines=Professional+Summary&repeat=false" alt="Professional Summary" />
 - **Specialization**: Web & App Development (MERN, Flutter), Agentic AI Systems, and Coding, Robotics & STEAM Education.
 - **Education**: MCA Student (KRMU, GGSIPU).
 - **Current Role**: Core contributor to **EDEMS Pvt. Ltd.** projects, bridging the gap between digital intelligence and physical execution.
@@ -15,11 +15,11 @@
 
 ---
 
-### 🌐 Live Portfolio Preview
+### 🌐 <img src="https://readme-typing-svg.demolab.com?font=Times+New+Roman&weight=bold&size=24&color=ffffff&vCenter=true&width=600&lines=Live+Portfolio+Preview&repeat=false" alt="Live Portfolio Preview" />
 
 <div align="center">
   <a href="https://vinayaksharmadev.vercel.app/">
-    <img src="portfolio_hero.jpg" alt="Vinayak Sharma Live Portfolio Preview" width="100%">
+    <img src="portfolio_hero.svg" alt="Vinayak Sharma Live Portfolio Preview" width="100%">
   </a>
   <br>
   <strong>Explore my full interactive portfolio at:</strong> <a href="https://vinayaksharmadev.vercel.app/">vinayaksharmadev.vercel.app</a>
@@ -27,7 +27,7 @@
 
 ---
 
-### 🏢 EDEMS Pvt. Ltd. Projects & Contributions
+### 🏢 <img src="https://readme-typing-svg.demolab.com?font=Times+New+Roman&weight=bold&size=24&color=ffffff&vCenter=true&width=800&lines=EDEMS+Pvt.+Ltd.+Projects+%26+Contributions&repeat=false" alt="EDEMS Pvt. Ltd. Projects & Contributions" />
 
 | ![N2N Networking Platform](https://vinayaksharmadev.vercel.app/assets/images/n2n_v.png) | ![Autonomous AI Sales Agent](https://vinayaksharmadev.vercel.app/assets/images/gmb_sales_agent.png) |
 | :---: | :---: |
@@ -35,15 +35,15 @@
 
 ---
 
-### 🌟 Personal Flagship Projects
+### 🌟 <img src="https://readme-typing-svg.demolab.com?font=Times+New+Roman&weight=bold&size=24&color=ffffff&vCenter=true&width=600&lines=Personal+Flagship+Projects&repeat=false" alt="Personal Flagship Projects" />
 
-| ![SAGE Wearable AI](sage_ai_illustration.jpg) | ![Vision-Controlled Robotic Arm](robotic_arm_illustration.jpg) |
+| ![SAGE](sage_ai_illustration.jpg) | ![Vision-Controlled Robotic Arm](robotic_arm_illustration.jpg) |
 | :---: | :---: |
-| **[SAGE Wearable AI](https://github.com/TechBastards/SAGE-AI)**<br>An intelligent wearable prototype integrating multimodal data and memory retrieval. | **[Vision-Controlled Robotic Arm](https://github.com/TechBastards/AI_Based_Vision_Controlled_Robotic_Arm_For_Selective_Object_Manipulation)**<br>Leveraging computer vision and AI for selective object manipulation. |
+| **[SAGE](https://github.com/TechBastards/SAGE-AI)**<br>An intelligent wearable prototype integrating multimodal data and memory retrieval. | **[Vision-Controlled Robotic Arm](https://github.com/TechBastards/AI_Based_Vision_Controlled_Robotic_Arm_For_Selective_Object_Manipulation)**<br>Leveraging computer vision and AI for selective object manipulation. |
 
 ---
 
-### ⚙️ Core Engineering Competencies
+### ⚙️ <img src="https://readme-typing-svg.demolab.com?font=Times+New+Roman&weight=bold&size=24&color=ffffff&vCenter=true&width=600&lines=Core+Engineering+Competencies&repeat=false" alt="Core Engineering Competencies" />
 - **Agentic AI & LLMs**: AI Workflow Automation, LLM Applications, Prompt Engineering, and Multi-agent orchestration.
 - **Web & App Development**: Full-stack web development and cross-platform mobile apps (Flutter, MERN).
 - **Robotics & Embedded**: Sensor-rich hardware prototyping, motor control logic, and electronics.
@@ -51,7 +51,7 @@
 
 ---
 
-### 🛠️ Technology Stack
+### 🛠️ <img src="https://readme-typing-svg.demolab.com?font=Times+New+Roman&weight=bold&size=24&color=ffffff&vCenter=true&width=600&lines=Technology+Stack&repeat=false" alt="Technology Stack" />
 
 <p align="center">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
@@ -73,17 +73,22 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
 </p>
 
+---
 
+### 📊 <img src="https://readme-typing-svg.demolab.com?font=Times+New+Roman&weight=bold&size=24&color=ffffff&vCenter=true&width=600&lines=GitHub+Stats&repeat=false" alt="GitHub Stats" />
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TechBastards&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  <br/>
-  <img src="https://streak-stats.demolab.com/?user=TechBastards&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TechBastards&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</p>
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=TechBastards&theme=radical&no-frame=true&row=1&column=7&margin-w=15" alt="Trophies" />
+</div>
+<br>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=TechBastards&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true&title_color=00f2fe&text_color=a8b2d1&icon_color=4facfe&bg_color=0d1117" width="48%" />
+  <img src="https://streak-stats.demolab.com/?user=TechBastards&theme=radical&hide_border=true&title_color=00f2fe&text_color=a8b2d1&icon_color=4facfe&background=0d1117" width="48%" />
+</div>
+<br>
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=TechBastards&bg_color=0d1117&color=4facfe&line=00f2fe&point=FFFFFF&area=true&hide_border=true" width="100%" />
+</div>
 
 ---
 
@@ -93,10 +98,3 @@
   <a href="https://vinayaksharmadev.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
   <a href="mailto:TechBastards@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </div>
-
-<br>
-<p align="center">
-  <a href="https://buymeacoffee.com/vinayaksharma">
-    <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee" />
-  </a>
-</p>
