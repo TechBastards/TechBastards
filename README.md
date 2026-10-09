@@ -75,23 +75,6 @@
 
 ---
 
-### 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=TechBastards&theme=radical&no-frame=true&row=1&column=7&margin-w=15" alt="Trophies" />
-</div>
-<br>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TechBastards&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true&title_color=00f2fe&text_color=a8b2d1&icon_color=4facfe&bg_color=0d1117" width="48%" />
-  <img src="https://streak-stats.demolab.com/?user=TechBastards&theme=radical&hide_border=true&title_color=00f2fe&text_color=a8b2d1&icon_color=4facfe&background=0d1117" width="48%" />
-</div>
-<br>
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=TechBastards&bg_color=0d1117&color=4facfe&line=00f2fe&point=FFFFFF&area=true&hide_border=true" width="100%" />
-</div>
-
----
-
 <div align="center">
   <a href="https://linkedin.com/in/vinayak-sharma-24a8aa384/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://github.com/TechBastards"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
