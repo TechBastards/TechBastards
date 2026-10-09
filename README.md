@@ -63,8 +63,15 @@
 
 ---
 
-### 🌐 Portfolio & Projects
-**Explore my full portfolio at:** [vinayaksharmadev.vercel.app](https://vinayaksharmadev.vercel.app/)
+### 🌐 Live Portfolio Preview
+
+<div align="center">
+  <a href="https://vinayaksharmadev.vercel.app/">
+    <img src="portfolio_hero.webp" alt="Vinayak Sharma Live Portfolio Preview" width="100%">
+  </a>
+  <br>
+  <strong>Explore my full interactive portfolio at:</strong> <a href="https://vinayaksharmadev.vercel.app/">vinayaksharmadev.vercel.app</a>
+</div>
 
 ---
 
