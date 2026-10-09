@@ -9,12 +9,12 @@
 
 ---
 
-### 🚀 About Me
-I build AI agents, automate workflows, integrate intelligent software with physical systems, and teach electronics and robotics through practical engineering projects. My work bridges the gap between digital intelligence and physical execution.
+### 📖 Chapter 1: The Vision
+*I build AI agents, automate workflows, integrate intelligent software with physical systems, and teach electronics and robotics through practical engineering projects. My work bridges the gap between digital intelligence and physical execution.*
 
 ---
 
-### 🌟 Featured Flagship Projects
+### 🧪 Chapter 2: The Laboratory (Featured Flagship Projects)
 
 | ![SAGE Wearable AI](sage_ai_illustration.jpg) | ![Vision-Controlled Robotic Arm](robotic_arm_illustration.jpg) |
 | :---: | :---: |
@@ -22,7 +22,7 @@ I build AI agents, automate workflows, integrate intelligent software with physi
 
 ---
 
-### 🤖 Agentic AI Capabilities
+### ⚔️ Chapter 3: The Arsenal (Core Capabilities)
 - **Agent Orchestration**: Designing scalable architectures for multi-agent workflows.
 - **Tool Integration**: Connecting language models with external APIs and real-world tools.
 - **Memory & Retrieval**: Implementing long-term memory and RAG (Retrieval-Augmented Generation) systems.
@@ -56,7 +56,11 @@ I build AI agents, automate workflows, integrate intelligent software with physi
 
 ---
 
-### 📊 GitHub Stats
+### 👣 Chapter 4: The Footprint (GitHub Stats & Contributions)
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=TechBastards&bg_color=1a1b27&color=70a5fd&line=70a5fd&point=bf91f3&area=true&hide_border=true" alt="Contribution Graph" width="100%"/>
+</p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=TechBastards&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
