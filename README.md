@@ -8,8 +8,7 @@
 ---
 
 ### 🚀 <img src="https://readme-typing-svg.demolab.com?font=Times+New+Roman&weight=bold&size=24&color=ffffff&vCenter=true&width=600&lines=Professional+Summary&repeat=false" alt="Professional Summary" />
-- **Specialization**: Web & App Development (MERN, Flutter), Agentic AI Systems, and Coding, Robotics & STEAM Education.
-- **Education**: MCA Student (KRMU, GGSIPU).
+- **Specialization**: Web & App Development (Flutter), Agentic AI Systems, and Coding, Robotics & STEAM Education.
 - **Current Role**: Core contributor to **EDEMS Pvt. Ltd.** projects, bridging the gap between digital intelligence and physical execution.
 - **Focus**: Building scalable multi-agent workflows, real-world AI applications, and fostering innovation through STEM mentorship.
 
