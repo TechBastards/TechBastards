@@ -2,40 +2,30 @@
   <img src="hero_illustration.jpg" alt="Vinayak Sharma - Agentic AI & Robotics Engineering Laboratory" width="100%">
   
   # Vinayak Sharma
-  **Agentic AI Engineer | Robotics & Embedded AI | Electronics and Robotics Trainer**
-  
-  *"Building Intelligent Agents. Connecting AI to the Real World."*
+  **Agentic AI Engineer | Robotics & Embedded AI | Core Contributor at EDEMS Pvt. Ltd.**
 </div>
 
 ---
 
-### 📖 Chapter 1: The Vision
-*I build AI agents, automate workflows, integrate intelligent software with physical systems, and teach electronics and robotics through practical engineering projects. My work bridges the gap between digital intelligence and physical execution.*
+### 🚀 Professional Summary
+- **Specialization**: Agentic AI, Computer Vision, Embedded Systems, and Robotics.
+- **Current Role**: Core contributor to **EDEMS Pvt. Ltd.** projects, building real-world AI applications.
+- **Focus**: Bridging the gap between digital intelligence and physical execution through scalable multi-agent workflows and hardware integration.
 
 ---
 
-### 🧪 Chapter 2: The Laboratory (Featured Flagship Projects)
+### 🏢 EDEMS Pvt. Ltd. Projects & Contributions
 
 | ![SAGE Wearable AI](sage_ai_illustration.jpg) | ![Vision-Controlled Robotic Arm](robotic_arm_illustration.jpg) |
 | :---: | :---: |
-| **[SAGE Wearable AI](https://github.com/TechBastards/SAGE-AI)**<br>An intelligent wearable prototype integrating multimodal data and memory retrieval. | **[Vision-Controlled Robotic Arm](https://github.com/TechBastards/AI_Based_Vision_Controlled_Robotic_Arm_For_Selective_Object_Manipulation)**<br>A robotic arm leveraging computer vision for selective object manipulation. |
+| **[SAGE Wearable AI](https://github.com/TechBastards/SAGE-AI)**<br>Developed for EDEMS Pvt. Ltd. An intelligent wearable integrating multimodal data and memory retrieval. | **[Vision-Controlled Robotic Arm](https://github.com/TechBastards/AI_Based_Vision_Controlled_Robotic_Arm_For_Selective_Object_Manipulation)**<br>Developed for EDEMS Pvt. Ltd. Leveraging computer vision for selective object manipulation. |
 
 ---
 
-### ⚔️ Chapter 3: The Arsenal (Core Capabilities)
-- **Agent Orchestration**: Designing scalable architectures for multi-agent workflows.
-- **Tool Integration**: Connecting language models with external APIs and real-world tools.
-- **Memory & Retrieval**: Implementing long-term memory and RAG (Retrieval-Augmented Generation) systems.
-- **Observability**: Building robust logging, monitoring, and validation into AI execution loops.
-
-### ⚙️ Robotics & Embedded Systems
-- **Computer Vision**: Integrating perception models with hardware control logic.
-- **Embedded AI**: Deploying lightweight AI models on microcontrollers and edge devices.
-- **Hardware Prototyping**: Developing sensor-rich embedded systems with ESP32 and similar architectures.
-
-### 🎓 Technical Education
-- **Mentorship & Training**: Simplifying complex robotics and electronics concepts through practical, reproducible projects.
-- **Curriculum Design**: Creating structured learning paths for aspiring embedded engineers.
+### ⚙️ Core Engineering Competencies
+- **Agentic AI**: Multi-agent orchestration, tool integration, and RAG architectures.
+- **Robotics**: Sensor-rich hardware prototyping, motor control logic, and embedded C/C++.
+- **Perception**: Real-time object detection (YOLO, OpenCV) mapped to spatial coordinates.
 
 ---
 
@@ -56,11 +46,7 @@
 
 ---
 
-### 👣 Chapter 4: The Footprint (GitHub Stats & Contributions)
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=TechBastards&bg_color=1a1b27&color=70a5fd&line=70a5fd&point=bf91f3&area=true&hide_border=true" alt="Contribution Graph" width="100%"/>
-</p>
+### 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=TechBastards&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
