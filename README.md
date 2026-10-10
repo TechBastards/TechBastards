@@ -1,5 +1,5 @@
 <div align="center">
-  https://github.com/TechBastards/TechBastards/raw/main/hero_video.mp4
+  <img src="hero_video.webp" alt="Vinayak Sharma - Agentic AI & Robotics Engineering Laboratory" width="100%">
   
   # Vinayak Sharma
   **Web & App Developer | Agentic AI Developer | Core Contributor at EDEMS Pvt. Ltd.**
@@ -36,7 +36,7 @@
 
 ### 🌟 Personal Flagship Projects
 
-| ![SAGE](sage_ai_illustration_animated.webp) | https://github.com/TechBastards/TechBastards/raw/main/robotic_arm_video.mp4 |
+| ![SAGE](sage_ai_illustration_animated.webp) | ![Vision-Controlled Robotic Arm](robotic_arm_video.webp) |
 | :---: | :---: |
 | **[SAGE](https://github.com/TechBastards/SAGE-AI)**<br>An intelligent wearable prototype integrating multimodal data and memory retrieval. | **[Vision-Controlled Robotic Arm](https://github.com/TechBastards/AI_Based_Vision_Controlled_Robotic_Arm_For_Selective_Object_Manipulation)**<br>Leveraging computer vision and AI for selective object manipulation. |
 
