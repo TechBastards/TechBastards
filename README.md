@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="hero_illustration.jpg" alt="Vinayak Sharma - Agentic AI & Robotics Engineering Laboratory" width="100%">
+  <img src="hero_illustration_animated.webp" alt="Vinayak Sharma - Agentic AI & Robotics Engineering Laboratory" width="100%">
   
   # Vinayak Sharma
   **Web & App Developer | Agentic AI Developer | Core Contributor at EDEMS Pvt. Ltd.**
@@ -18,7 +18,7 @@
 
 <div align="center">
   <a href="https://vinayaksharmadev.vercel.app/">
-    <img src="portfolio_hero.webp" alt="Vinayak Sharma Live Portfolio Preview" width="100%">
+    <img src="portfolio_hero_animated.webp" alt="Vinayak Sharma Live Portfolio Preview" width="100%">
   </a>
   <br>
   <strong>Explore my full interactive portfolio at:</strong> <a href="https://vinayaksharmadev.vercel.app/">vinayaksharmadev.vercel.app</a>
@@ -28,7 +28,7 @@
 
 ### 🏢 EDEMS Pvt. Ltd. Projects & Contributions
 
-| ![N2N Networking Platform](n2n_v.png) | ![Autonomous AI Sales Agent](gmb_sales_agent.png) |
+| ![N2N Networking Platform](n2n_v_animated.webp) | ![Autonomous AI Sales Agent](gmb_sales_agent.png) |
 | :---: | :---: |
 | **[N2N Networking Platform](https://github.com/TechBastards/n2n-v)**<br>A social and recruitment network bridging students and corporations. Features smart resume parsing and autonomous hiring agents. | **[Autonomous AI Sales Agent](https://github.com/TechBastards/gmb-sales-agent)**<br>An enterprise-grade, mobile AI Sales CRM. Discovers business leads and manages end-to-end outreach via WhatsApp using Gemini AI. |
 
@@ -36,7 +36,7 @@
 
 ### 🌟 Personal Flagship Projects
 
-| ![SAGE](sage_ai_illustration.jpg) | ![Vision-Controlled Robotic Arm](robotic_arm_illustration.jpg) |
+| ![SAGE](sage_ai_illustration_animated.webp) | ![Vision-Controlled Robotic Arm](robotic_arm_illustration_animated.webp) |
 | :---: | :---: |
 | **[SAGE](https://github.com/TechBastards/SAGE-AI)**<br>An intelligent wearable prototype integrating multimodal data and memory retrieval. | **[Vision-Controlled Robotic Arm](https://github.com/TechBastards/AI_Based_Vision_Controlled_Robotic_Arm_For_Selective_Object_Manipulation)**<br>Leveraging computer vision and AI for selective object manipulation. |
 
