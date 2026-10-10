@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="hero_illustration_animated.webp" alt="Vinayak Sharma - Agentic AI & Robotics Engineering Laboratory" width="100%">
+  https://github.com/TechBastards/TechBastards/raw/main/hero_video.mp4
   
   # Vinayak Sharma
   **Web & App Developer | Agentic AI Developer | Core Contributor at EDEMS Pvt. Ltd.**
