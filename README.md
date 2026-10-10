@@ -28,7 +28,7 @@
 
 ### 🏢 EDEMS Pvt. Ltd. Projects & Contributions
 
-| ![N2N Networking Platform](n2n_v_animated.webp) | ![Autonomous AI Sales Agent](gmb_sales_agent.png) |
+| ![N2N Networking Platform](n2n_v_video.webp) | ![Autonomous AI Sales Agent](gmb_sales_agent_video.webp) |
 | :---: | :---: |
 | **[N2N Networking Platform](https://github.com/TechBastards/n2n-v)**<br>A social and recruitment network bridging students and corporations. Features smart resume parsing and autonomous hiring agents. | **[Autonomous AI Sales Agent](https://github.com/TechBastards/gmb-sales-agent)**<br>An enterprise-grade, mobile AI Sales CRM. Discovers business leads and manages end-to-end outreach via WhatsApp using Gemini AI. |
 
