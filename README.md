@@ -18,7 +18,7 @@
 
 <div align="center">
   <a href="https://vinayaksharmadev.vercel.app/">
-    <img src="portfolio_hero_animated.webp" alt="Vinayak Sharma Live Portfolio Preview" width="100%">
+    <img src="portfolio_hero_video.webp" alt="Vinayak Sharma Live Portfolio Preview" width="100%">
   </a>
   <br>
   <strong>Explore my full interactive portfolio at:</strong> <a href="https://vinayaksharmadev.vercel.app/">vinayaksharmadev.vercel.app</a>
