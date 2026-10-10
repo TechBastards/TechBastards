@@ -74,12 +74,17 @@
 
 ---
 
-### 📊 Coding Activity & LeetCode Stats
+### 📊 Coding Activity & GitHub Stats
 
 <div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=vsbeginner&show_icons=true&theme=nord&hide_border=true&bg_color=0D1117" alt="GitHub Stats" width="48%" />
   <a href="https://leetcode.com/u/vinayaksharma14/">
-    <img src="leetcode-stats.svg" alt="LeetCode Stats" width="80%">
+    <img src="leetcode-stats.svg" alt="LeetCode Stats" width="48%">
   </a>
+</div>
+<br>
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vsbeginner&theme=nord&hide_border=true&background=0D1117" alt="GitHub Streak" width="100%" />
 </div>
 
 ---

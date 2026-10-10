@@ -16,7 +16,7 @@ jobs:
 
       - name: Fetch LeetCode Stats
         run: |
-          curl -sL "https://leetcard.jacoblin.cool/vinayaksharma14?theme=dark&font=baloo&ext=activity" -o leetcode-stats.svg
+          curl -sL "https://leetcard.jacoblin.cool/vinayaksharma14?theme=nord&font=baloo&ext=heatmap" -o leetcode-stats.svg
 
       - name: Commit and Push Changes
         run: |
